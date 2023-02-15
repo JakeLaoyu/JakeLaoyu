@@ -33,3 +33,10 @@ YAML                       1 hr 34 mins    █░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jakelaoyu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<!-- ### 🤝🏻 &nbsp; Connect with Me
+
+<p align="center">
+<a href="https://i.jakeyu.top"><img src="https://img.shields.io/badge/-i.jakeyu.top-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:jake.laoyu@gmail.com"><img src="https://img.shields.io/badge/-jake.laoyu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p> -->
