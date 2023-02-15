@@ -13,6 +13,16 @@
 #### Waka
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript                 12 hrs 28 mins  ████████░░░░░░░░░░░░░░░░░   32.31 %
+JavaScript                 8 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Vue.js                     6 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+JSON                       2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Markdown                   1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+YAML                       1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+```
+
 <!--END_SECTION:waka-->
 
 ### ⚙️ &nbsp; GitHub Analytics
