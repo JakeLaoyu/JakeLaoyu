@@ -3,6 +3,11 @@
 ### 💻 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#88](https://github.com/JakeLaoyu/qiniu-files-manager/pull/88) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)
+2. 💪 Opened PR [#88](https://github.com/JakeLaoyu/qiniu-files-manager/pull/88) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)
+3. 🗣 Commented on [#4747](https://github.com/raycast/extensions/issues/4747) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#4723](https://github.com/raycast/extensions/issues/4723) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#4723](https://github.com/raycast/extensions/issues/4723) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 #### Waka
