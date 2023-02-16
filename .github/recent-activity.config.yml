@@ -9,6 +9,7 @@ settings:
     - "new_star"
     - "new_release"
     - "push"
+    - "fork_repo"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+00:00"
