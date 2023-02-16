@@ -3,11 +3,7 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PengJiyuan/ts-document](https://github.com/PengJiyuan/ts-document)<br>
-2. ⭐ Starred [vueuse/vueuse](https://github.com/vueuse/vueuse)<br>
-3. 🔱 Forked [JakeLaoyu/AndresMorelos](https://github.com/JakeLaoyu/AndresMorelos) from [AndresMorelos/AndresMorelos](https://github.com/AndresMorelos/AndresMorelos)<br>
-4. ⭐ Starred [lra/mackup](https://github.com/lra/mackup)<br>
-5. 🔱 Forked [JakeLaoyu/logseq-memos-sync](https://github.com/JakeLaoyu/logseq-memos-sync) from [EINDEX/logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync)<br>
+1. ✔️ Closed issue [#2](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/2) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
