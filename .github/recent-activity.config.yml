@@ -6,10 +6,10 @@ settings:
   disabled_events:
     - "comments"
     - "create_repo"
-    - "new_star"
-    - "new_release"
+    - "fork"
+    - "release"
     - "push"
-    - "fork_repo"
+    - "star"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+08:00"
