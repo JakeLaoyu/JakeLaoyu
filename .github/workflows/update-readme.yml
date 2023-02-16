@@ -15,5 +15,3 @@ jobs:
       - uses: Readme-Workflows/recent-activity@2.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          ignored_repos: [jakelaoyu/jakelaoyu]
