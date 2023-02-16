@@ -3,16 +3,10 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#91](https://github.com/JakeLaoyu/qiniu-files-manager/pull/91) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-2. 💪 Opened PR [#91](https://github.com/JakeLaoyu/qiniu-files-manager/pull/91) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-3. 🎉 Merged PR [#90](https://github.com/JakeLaoyu/qiniu-files-manager/pull/90) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-4. 💪 Opened PR [#90](https://github.com/JakeLaoyu/qiniu-files-manager/pull/90) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-5. 🎉 Merged PR [#89](https://github.com/JakeLaoyu/qiniu-files-manager/pull/89) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-6. 💪 Opened PR [#89](https://github.com/JakeLaoyu/qiniu-files-manager/pull/89) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-7. 🎉 Merged PR [#88](https://github.com/JakeLaoyu/qiniu-files-manager/pull/88) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-8. 💪 Opened PR [#88](https://github.com/JakeLaoyu/qiniu-files-manager/pull/88) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-9. 💬 Commented on [#4747](https://github.com/raycast/extensions/pull/4747#issuecomment-1430784163) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-10. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1430749841) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+1. 💬 Commented on [#4747](https://github.com/raycast/extensions/pull/4747#issuecomment-1430784163) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+2. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1430749841) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+3. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1430747899) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+4. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1430667806) in [raycast/extensions](https://github.com/raycast/extensions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
