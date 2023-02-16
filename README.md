@@ -3,11 +3,6 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#91](https://github.com/JakeLaoyu/qiniu-files-manager/pull/91) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-2. 💪 Opened PR [#91](https://github.com/JakeLaoyu/qiniu-files-manager/pull/91) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-3. 🎉 Merged PR [#90](https://github.com/JakeLaoyu/qiniu-files-manager/pull/90) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-4. 💪 Opened PR [#90](https://github.com/JakeLaoyu/qiniu-files-manager/pull/90) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-5. 🎉 Merged PR [#89](https://github.com/JakeLaoyu/qiniu-files-manager/pull/89) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
