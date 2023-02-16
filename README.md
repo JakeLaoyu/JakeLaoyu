@@ -4,10 +4,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [PengJiyuan/ts-document](https://github.com/PengJiyuan/ts-document)<br>
-2. 🎉 Merged PR [#91](https://github.com/JakeLaoyu/qiniu-files-manager/pull/91) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-3. 💪 Opened PR [#91](https://github.com/JakeLaoyu/qiniu-files-manager/pull/91) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-4. 🎉 Merged PR [#90](https://github.com/JakeLaoyu/qiniu-files-manager/pull/90) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
-5. 💪 Opened PR [#90](https://github.com/JakeLaoyu/qiniu-files-manager/pull/90) in [JakeLaoyu/qiniu-files-manager](https://github.com/JakeLaoyu/qiniu-files-manager)<br>
+2. ⭐ Starred [vueuse/vueuse](https://github.com/vueuse/vueuse)<br>
+3. 🔱 Forked [JakeLaoyu/AndresMorelos](https://github.com/JakeLaoyu/AndresMorelos) from [AndresMorelos/AndresMorelos](https://github.com/AndresMorelos/AndresMorelos)<br>
+4. ⭐ Starred [lra/mackup](https://github.com/lra/mackup)<br>
+5. 🔱 Forked [JakeLaoyu/logseq-memos-sync](https://github.com/JakeLaoyu/logseq-memos-sync) from [EINDEX/logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
