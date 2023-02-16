@@ -10,11 +10,11 @@ settings:
 #     - "release"
 #     - "push"
 #     - "star"
-   whitelisted_events:
-     - pr
-     - issues
-     - review
-     - member
+  whitelisted_events:
+    - pr
+    - issues
+    - review
+    - member
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+08:00"
