@@ -8,6 +8,7 @@ settings:
     - "create_repo"
     - "new_star"
     - "new_release"
+    - "push"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+00:00"
