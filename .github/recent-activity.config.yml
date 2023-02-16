@@ -12,6 +12,7 @@ settings:
 #     - "star"
   whitelisted_events:
     - pr
+    - comments
     - issues
     - review
     - member
