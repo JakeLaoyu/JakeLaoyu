@@ -3,10 +3,11 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1100](https://github.com/usememos/memos/pull/1100) in [usememos/memos](https://github.com/usememos/memos)<br>
-2. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1433272568) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-3. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1432787852) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-4. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1432748533) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+1. 🎉 Merged PR [#1](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/1) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+2. 💪 Opened PR [#1100](https://github.com/usememos/memos/pull/1100) in [usememos/memos](https://github.com/usememos/memos)<br>
+3. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1433272568) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+4. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1432787852) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+5. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1432748533) in [raycast/extensions](https://github.com/raycast/extensions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
