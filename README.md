@@ -6,7 +6,6 @@
 1. 🎉 Merged PR [#4](https://github.com/JakeLaoyu/spa-ssr-service/pull/4) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
 2. 🎉 Merged PR [#1](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/1) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 3. 💪 Opened PR [#1100](https://github.com/usememos/memos/pull/1100) in [usememos/memos](https://github.com/usememos/memos)<br>
-4. 💬 Commented on [#4723](https://github.com/raycast/extensions/pull/4723#issuecomment-1433272568) in [raycast/extensions](https://github.com/raycast/extensions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
