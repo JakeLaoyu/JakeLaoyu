@@ -3,7 +3,6 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/JakeLaoyu/spa-ssr-service/pull/4) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
