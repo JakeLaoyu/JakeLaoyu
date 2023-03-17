@@ -3,6 +3,8 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. 🎉 Merged PR [#1](https://github.com/JakeLaoyu/code-run/pull/1) in [JakeLaoyu/code-run](https://github.com/JakeLaoyu/code-run)<br>
+2. 💪 Opened PR [#1](https://github.com/JakeLaoyu/code-run/pull/1) in [JakeLaoyu/code-run](https://github.com/JakeLaoyu/code-run)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
