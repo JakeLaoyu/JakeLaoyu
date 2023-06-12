@@ -8,7 +8,6 @@
 3. 💬 Commented on [#3](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/3#issuecomment-1495226536) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 4. 💬 Commented on [#2](https://github.com/esm2cjs/.github/issues/2#issuecomment-1480636966) in [esm2cjs/.github](https://github.com/esm2cjs/.github)<br>
 5. 💪 Opened PR [#1](https://github.com/CatalystClan/chatgpt-api/pull/1) in [CatalystClan/chatgpt-api](https://github.com/CatalystClan/chatgpt-api)<br>
-6. 🎉 Merged PR [#1](https://github.com/JakeLaoyu/code-run/pull/1) in [JakeLaoyu/code-run](https://github.com/JakeLaoyu/code-run)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
