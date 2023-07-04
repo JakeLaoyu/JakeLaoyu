@@ -9,8 +9,6 @@
 4. 🎉 Merged PR [#13](https://github.com/JakeLaoyu/blog/pull/13) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
 5. 🎉 Merged PR [#12](https://github.com/JakeLaoyu/blog/pull/12) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
 6. 🎉 Merged PR [#10](https://github.com/JakeLaoyu/blog/pull/10) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-7. ✔️ Closed issue [#3](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/3) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-8. 💬 Commented on [#3](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/3#issuecomment-1495226536) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
