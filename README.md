@@ -16,8 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart         19 hrs 18 mins  ███████████░░░░░░░░░░░░░░   43.61 %
-Other        17 hrs 23 mins  █████████▓░░░░░░░░░░░░░░░   39.30 %
+Other        21 hrs 26 mins  ██████████▓░░░░░░░░░░░░░░   43.03 %
 ```
 
 <!--END_SECTION:waka-->
