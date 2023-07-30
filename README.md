@@ -3,16 +3,16 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/5) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-2. 👍 Approved [#5](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/5#pullrequestreview-1553663730) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-3. ❌ Closed PR [#4](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/4) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-4. 💬 Commented on [#4](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/4#issuecomment-1657206953) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-5. 💬 Commented on [#6](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/6#issuecomment-1657205893) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-6. 💪 Opened PR [#7](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/7) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-7. 💪 Opened PR [#9](https://github.com/JakeLaoyu/memos-raycast/pull/9) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
-8. 💬 Commented on [#8](https://github.com/JakeLaoyu/memos-raycast/issues/8#issuecomment-1655091213) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
-9. 💪 Opened PR [#7686](https://github.com/raycast/extensions/pull/7686) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-10. 🎉 Merged PR [#7](https://github.com/JakeLaoyu/memos-raycast/pull/7) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
+1. 🎉 Merged PR [#7](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/7) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+2. ✔️ Closed issue [#6](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/6) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+3. 💬 Commented on [#6](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/6#issuecomment-1657209397) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+4. 🎉 Merged PR [#5](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/5) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+5. 👍 Approved [#5](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/5#pullrequestreview-1553663730) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+6. ❌ Closed PR [#4](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/4) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+7. 💬 Commented on [#4](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/4#issuecomment-1657206953) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+8. 💬 Commented on [#6](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/6#issuecomment-1657205893) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+9. 💪 Opened PR [#7](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/7) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+10. 💪 Opened PR [#9](https://github.com/JakeLaoyu/memos-raycast/pull/9) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
