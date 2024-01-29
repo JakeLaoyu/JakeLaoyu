@@ -28,7 +28,7 @@ Other        28 mins         ██████████████▒░░
 ### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakeLaoyu&theme=2077)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakeLaoyu&theme=2077" />
 </p>
 
 
