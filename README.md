@@ -11,7 +11,6 @@
 6. 💬 Commented on [#20](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/20#issuecomment-1914109059) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 7. 🎉 Merged PR [#21](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/21) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 8. 🎉 Merged PR [#1](https://github.com/JakeLaoyu/square-circle/pull/1) in [JakeLaoyu/square-circle](https://github.com/JakeLaoyu/square-circle)<br>
-9. 🎉 Merged PR [#28](https://github.com/JakeLaoyu/blog/pull/28) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
