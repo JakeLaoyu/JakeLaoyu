@@ -3,16 +3,16 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#11118](https://github.com/raycast/extensions/issues/11118#issuecomment-1982244141) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-2. 💬 Commented on [#11118](https://github.com/raycast/extensions/issues/11118#issuecomment-1980064412) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-3. 💬 Commented on [#11098](https://github.com/raycast/extensions/issues/11098#issuecomment-1977953617) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-4. 💪 Opened PR [#11101](https://github.com/raycast/extensions/pull/11101) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-5. 🎉 Merged PR [#11](https://github.com/JakeLaoyu/memos-raycast/pull/11) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
-6. 💬 Commented on [#30](https://github.com/JakeLaoyu/blog/issues/30#issuecomment-1974752323) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-7. 💬 Commented on [#4075](https://github.com/ruanyf/weekly/issues/4075#issuecomment-1970500742) in [ruanyf/weekly](https://github.com/ruanyf/weekly)<br>
-8. 🎉 Merged PR [#23](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/23) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-9. 💪 Opened PR [#23](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/23) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-10. 🎉 Merged PR [#22](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/22) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+1. 🎉 Merged PR [#24](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/24) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+2. 🎉 Merged PR [#17](https://github.com/JakeLaoyu/hexo-browser-search/pull/17) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
+3. 🎉 Merged PR [#12](https://github.com/JakeLaoyu/memos-raycast/pull/12) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
+4. 💬 Commented on [#11118](https://github.com/raycast/extensions/issues/11118#issuecomment-1982244141) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+5. 💬 Commented on [#11118](https://github.com/raycast/extensions/issues/11118#issuecomment-1980064412) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+6. 💬 Commented on [#11098](https://github.com/raycast/extensions/issues/11098#issuecomment-1977953617) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+7. 💪 Opened PR [#11101](https://github.com/raycast/extensions/pull/11101) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+8. 🎉 Merged PR [#11](https://github.com/JakeLaoyu/memos-raycast/pull/11) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
+9. 💬 Commented on [#30](https://github.com/JakeLaoyu/blog/issues/30#issuecomment-1974752323) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+10. 💬 Commented on [#4075](https://github.com/ruanyf/weekly/issues/4075#issuecomment-1970500742) in [ruanyf/weekly](https://github.com/ruanyf/weekly)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
