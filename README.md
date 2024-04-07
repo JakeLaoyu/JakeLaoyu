@@ -8,8 +8,6 @@
 3. 💬 Commented on [#26](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/26#issuecomment-2017117345) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 4. ✔️ Closed issue [#26](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/26) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 5. 💪 Opened PR [#28](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/28) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-6. 💬 Commented on [#25](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/25#issuecomment-2017077224) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-7. ✔️ Closed issue [#25](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/25) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
