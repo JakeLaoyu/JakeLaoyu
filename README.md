@@ -4,7 +4,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#29](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/29#issuecomment-2041916668) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-2. 💬 Commented on [#4193](https://github.com/vuejs/language-tools/issues/4193#issuecomment-2033427536) in [vuejs/language-tools](https://github.com/vuejs/language-tools)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
