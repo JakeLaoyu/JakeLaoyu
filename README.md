@@ -3,7 +3,8 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#29](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/29#issuecomment-2041916668) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+1. 🎉 Merged PR [#18](https://github.com/JakeLaoyu/hexo-browser-search/pull/18) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
+2. 💬 Commented on [#29](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/29#issuecomment-2041916668) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
