@@ -3,12 +3,13 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#3409](https://github.com/usememos/memos/issues/3409) in [usememos/memos](https://github.com/usememos/memos)<br>
-2. 💬 Commented on [#3409](https://github.com/usememos/memos/issues/3409#issuecomment-2119923327) in [usememos/memos](https://github.com/usememos/memos)<br>
-3. 💬 Commented on [#3409](https://github.com/usememos/memos/issues/3409#issuecomment-2119692967) in [usememos/memos](https://github.com/usememos/memos)<br>
-4. ❗️ Opened issue [#3409](https://github.com/usememos/memos/issues/3409) in [usememos/memos](https://github.com/usememos/memos)<br>
-5. 🎉 Merged PR [#18](https://github.com/JakeLaoyu/hexo-browser-search/pull/18) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
-6. 💬 Commented on [#29](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/29#issuecomment-2041916668) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+1. ❗️ Opened issue [#3411](https://github.com/usememos/memos/issues/3411) in [usememos/memos](https://github.com/usememos/memos)<br>
+2. ✔️ Closed issue [#3409](https://github.com/usememos/memos/issues/3409) in [usememos/memos](https://github.com/usememos/memos)<br>
+3. 💬 Commented on [#3409](https://github.com/usememos/memos/issues/3409#issuecomment-2119923327) in [usememos/memos](https://github.com/usememos/memos)<br>
+4. 💬 Commented on [#3409](https://github.com/usememos/memos/issues/3409#issuecomment-2119692967) in [usememos/memos](https://github.com/usememos/memos)<br>
+5. ❗️ Opened issue [#3409](https://github.com/usememos/memos/issues/3409) in [usememos/memos](https://github.com/usememos/memos)<br>
+6. 🎉 Merged PR [#18](https://github.com/JakeLaoyu/hexo-browser-search/pull/18) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
+7. 💬 Commented on [#29](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/29#issuecomment-2041916668) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
