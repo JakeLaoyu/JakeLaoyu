@@ -3,16 +3,16 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12494](https://github.com/raycast/extensions/pull/12494) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-2. 💬 Commented on [#12415](https://github.com/raycast/extensions/issues/12415#issuecomment-2121558417) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-3. 💬 Commented on [#12415](https://github.com/raycast/extensions/issues/12415#issuecomment-2121558085) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-4. 💬 Commented on [#3411](https://github.com/usememos/memos/issues/3411#issuecomment-2121556807) in [usememos/memos](https://github.com/usememos/memos)<br>
-5. ❗️ Opened issue [#3411](https://github.com/usememos/memos/issues/3411) in [usememos/memos](https://github.com/usememos/memos)<br>
-6. ✔️ Closed issue [#3409](https://github.com/usememos/memos/issues/3409) in [usememos/memos](https://github.com/usememos/memos)<br>
-7. 💬 Commented on [#3409](https://github.com/usememos/memos/issues/3409#issuecomment-2119923327) in [usememos/memos](https://github.com/usememos/memos)<br>
-8. 💬 Commented on [#3409](https://github.com/usememos/memos/issues/3409#issuecomment-2119692967) in [usememos/memos](https://github.com/usememos/memos)<br>
-9. ❗️ Opened issue [#3409](https://github.com/usememos/memos/issues/3409) in [usememos/memos](https://github.com/usememos/memos)<br>
-10. 🎉 Merged PR [#18](https://github.com/JakeLaoyu/hexo-browser-search/pull/18) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
+1. 💬 Commented on [#12494](https://github.com/raycast/extensions/pull/12494#issuecomment-2122646480) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+2. 💪 Opened PR [#12494](https://github.com/raycast/extensions/pull/12494) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+3. 💬 Commented on [#12415](https://github.com/raycast/extensions/issues/12415#issuecomment-2121558417) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+4. 💬 Commented on [#12415](https://github.com/raycast/extensions/issues/12415#issuecomment-2121558085) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+5. 💬 Commented on [#3411](https://github.com/usememos/memos/issues/3411#issuecomment-2121556807) in [usememos/memos](https://github.com/usememos/memos)<br>
+6. ❗️ Opened issue [#3411](https://github.com/usememos/memos/issues/3411) in [usememos/memos](https://github.com/usememos/memos)<br>
+7. ✔️ Closed issue [#3409](https://github.com/usememos/memos/issues/3409) in [usememos/memos](https://github.com/usememos/memos)<br>
+8. 💬 Commented on [#3409](https://github.com/usememos/memos/issues/3409#issuecomment-2119923327) in [usememos/memos](https://github.com/usememos/memos)<br>
+9. 💬 Commented on [#3409](https://github.com/usememos/memos/issues/3409#issuecomment-2119692967) in [usememos/memos](https://github.com/usememos/memos)<br>
+10. ❗️ Opened issue [#3409](https://github.com/usememos/memos/issues/3409) in [usememos/memos](https://github.com/usememos/memos)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
