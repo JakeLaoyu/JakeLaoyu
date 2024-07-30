@@ -3,16 +3,16 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#38](https://github.com/JakeLaoyu/blog/pull/38) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-2. 🎉 Merged PR [#10](https://github.com/JakeLaoyu/spa-ssr-service/pull/10) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
-3. 🎉 Merged PR [#9](https://github.com/JakeLaoyu/spa-ssr-service/pull/9) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
-4. 🎉 Merged PR [#13](https://github.com/JakeLaoyu/memos-raycast/pull/13) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
-5. 💪 Opened PR [#13581](https://github.com/raycast/extensions/pull/13581) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-6. ❗️ Opened issue [#3724](https://github.com/usememos/memos/issues/3724) in [usememos/memos](https://github.com/usememos/memos)<br>
-7. 💬 Commented on [#3494](https://github.com/usememos/memos/issues/3494#issuecomment-2213765319) in [usememos/memos](https://github.com/usememos/memos)<br>
-8. 🎉 Merged PR [#36](https://github.com/JakeLaoyu/blog/pull/36) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-9. ❌ Closed PR [#32](https://github.com/JakeLaoyu/blog/pull/32) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-10. 🎉 Merged PR [#33](https://github.com/JakeLaoyu/blog/pull/33) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+1. 🎉 Merged PR [#39](https://github.com/JakeLaoyu/blog/pull/39) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+2. 🎉 Merged PR [#38](https://github.com/JakeLaoyu/blog/pull/38) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+3. 🎉 Merged PR [#10](https://github.com/JakeLaoyu/spa-ssr-service/pull/10) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
+4. 🎉 Merged PR [#9](https://github.com/JakeLaoyu/spa-ssr-service/pull/9) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
+5. 🎉 Merged PR [#13](https://github.com/JakeLaoyu/memos-raycast/pull/13) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
+6. 💪 Opened PR [#13581](https://github.com/raycast/extensions/pull/13581) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+7. ❗️ Opened issue [#3724](https://github.com/usememos/memos/issues/3724) in [usememos/memos](https://github.com/usememos/memos)<br>
+8. 💬 Commented on [#3494](https://github.com/usememos/memos/issues/3494#issuecomment-2213765319) in [usememos/memos](https://github.com/usememos/memos)<br>
+9. 🎉 Merged PR [#36](https://github.com/JakeLaoyu/blog/pull/36) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+10. ❌ Closed PR [#32](https://github.com/JakeLaoyu/blog/pull/32) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
