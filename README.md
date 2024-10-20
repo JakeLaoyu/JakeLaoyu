@@ -3,16 +3,16 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/JakeLaoyu/square-circle/pull/7) in [JakeLaoyu/square-circle](https://github.com/JakeLaoyu/square-circle)<br>
-2. 🎉 Merged PR [#40](https://github.com/JakeLaoyu/blog/pull/40) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-3. 💬 Commented on [#30](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/30#issuecomment-2270016412) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-4. ✔️ Closed issue [#30](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/30) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-5. 🎉 Merged PR [#39](https://github.com/JakeLaoyu/blog/pull/39) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-6. 🎉 Merged PR [#38](https://github.com/JakeLaoyu/blog/pull/38) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-7. 🎉 Merged PR [#10](https://github.com/JakeLaoyu/spa-ssr-service/pull/10) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
-8. 🎉 Merged PR [#9](https://github.com/JakeLaoyu/spa-ssr-service/pull/9) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
-9. 🎉 Merged PR [#13](https://github.com/JakeLaoyu/memos-raycast/pull/13) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
-10. 💪 Opened PR [#13581](https://github.com/raycast/extensions/pull/13581) in [raycast/extensions](https://github.com/raycast/extensions)<br>
+1. 🎉 Merged PR [#41](https://github.com/JakeLaoyu/blog/pull/41) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+2. 🎉 Merged PR [#7](https://github.com/JakeLaoyu/square-circle/pull/7) in [JakeLaoyu/square-circle](https://github.com/JakeLaoyu/square-circle)<br>
+3. 🎉 Merged PR [#40](https://github.com/JakeLaoyu/blog/pull/40) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+4. 💬 Commented on [#30](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/30#issuecomment-2270016412) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+5. ✔️ Closed issue [#30](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/30) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+6. 🎉 Merged PR [#39](https://github.com/JakeLaoyu/blog/pull/39) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+7. 🎉 Merged PR [#38](https://github.com/JakeLaoyu/blog/pull/38) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+8. 🎉 Merged PR [#10](https://github.com/JakeLaoyu/spa-ssr-service/pull/10) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
+9. 🎉 Merged PR [#9](https://github.com/JakeLaoyu/spa-ssr-service/pull/9) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
+10. 🎉 Merged PR [#13](https://github.com/JakeLaoyu/memos-raycast/pull/13) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
