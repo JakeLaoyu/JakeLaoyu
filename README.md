@@ -12,7 +12,6 @@
 7. 🎉 Merged PR [#38](https://github.com/JakeLaoyu/blog/pull/38) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
 8. 🎉 Merged PR [#10](https://github.com/JakeLaoyu/spa-ssr-service/pull/10) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
 9. 🎉 Merged PR [#9](https://github.com/JakeLaoyu/spa-ssr-service/pull/9) in [JakeLaoyu/spa-ssr-service](https://github.com/JakeLaoyu/spa-ssr-service)<br>
-10. 🎉 Merged PR [#13](https://github.com/JakeLaoyu/memos-raycast/pull/13) in [JakeLaoyu/memos-raycast](https://github.com/JakeLaoyu/memos-raycast)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
