@@ -3,16 +3,16 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#20](https://github.com/JakeLaoyu/hexo-browser-search/pull/20) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
-2. 🎉 Merged PR [#19](https://github.com/JakeLaoyu/hexo-browser-search/pull/19) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
-3. 🎉 Merged PR [#16](https://github.com/JakeLaoyu/hexo-browser-search/pull/16) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
-4. 🎉 Merged PR [#47](https://github.com/JakeLaoyu/blog/pull/47) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-5. 💬 Commented on [#46](https://github.com/JakeLaoyu/blog/issues/46#issuecomment-2430411919) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-6. ❌ Closed PR [#42](https://github.com/JakeLaoyu/blog/pull/42) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-7. ❌ Closed PR [#43](https://github.com/JakeLaoyu/blog/pull/43) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-8. 🎉 Merged PR [#45](https://github.com/JakeLaoyu/blog/pull/45) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-9. 🎉 Merged PR [#41](https://github.com/JakeLaoyu/blog/pull/41) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-10. 🎉 Merged PR [#7](https://github.com/JakeLaoyu/square-circle/pull/7) in [JakeLaoyu/square-circle](https://github.com/JakeLaoyu/square-circle)<br>
+1. ❌ Closed PR [#48](https://github.com/JakeLaoyu/blog/pull/48) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+2. 🎉 Merged PR [#20](https://github.com/JakeLaoyu/hexo-browser-search/pull/20) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
+3. 🎉 Merged PR [#19](https://github.com/JakeLaoyu/hexo-browser-search/pull/19) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
+4. 🎉 Merged PR [#16](https://github.com/JakeLaoyu/hexo-browser-search/pull/16) in [JakeLaoyu/hexo-browser-search](https://github.com/JakeLaoyu/hexo-browser-search)<br>
+5. 🎉 Merged PR [#47](https://github.com/JakeLaoyu/blog/pull/47) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+6. 💬 Commented on [#46](https://github.com/JakeLaoyu/blog/issues/46#issuecomment-2430411919) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+7. ❌ Closed PR [#42](https://github.com/JakeLaoyu/blog/pull/42) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+8. ❌ Closed PR [#43](https://github.com/JakeLaoyu/blog/pull/43) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+9. 🎉 Merged PR [#45](https://github.com/JakeLaoyu/blog/pull/45) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+10. 🎉 Merged PR [#41](https://github.com/JakeLaoyu/blog/pull/41) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
