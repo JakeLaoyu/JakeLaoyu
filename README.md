@@ -3,16 +3,16 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#32](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/32#issuecomment-2525267850) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-2. 🎉 Merged PR [#66](https://github.com/JakeLaoyu/blog/pull/66) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-3. 🎉 Merged PR [#63](https://github.com/JakeLaoyu/blog/pull/63) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-4. 🎉 Merged PR [#62](https://github.com/JakeLaoyu/blog/pull/62) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-5. 🎉 Merged PR [#59](https://github.com/JakeLaoyu/blog/pull/59) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-6. 🎉 Merged PR [#58](https://github.com/JakeLaoyu/blog/pull/58) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-7. 🎉 Merged PR [#57](https://github.com/JakeLaoyu/blog/pull/57) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-8. 🎉 Merged PR [#56](https://github.com/JakeLaoyu/blog/pull/56) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-9. 🎉 Merged PR [#55](https://github.com/JakeLaoyu/blog/pull/55) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
-10. 🎉 Merged PR [#53](https://github.com/JakeLaoyu/blog/pull/53) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+1. ✔️ Closed issue [#31](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/31) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+2. 🎉 Merged PR [#33](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/33) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+3. 💪 Opened PR [#33](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/33) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+4. 💬 Commented on [#32](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/32#issuecomment-2525267850) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+5. 🎉 Merged PR [#66](https://github.com/JakeLaoyu/blog/pull/66) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+6. 🎉 Merged PR [#63](https://github.com/JakeLaoyu/blog/pull/63) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+7. 🎉 Merged PR [#62](https://github.com/JakeLaoyu/blog/pull/62) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+8. 🎉 Merged PR [#59](https://github.com/JakeLaoyu/blog/pull/59) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+9. 🎉 Merged PR [#58](https://github.com/JakeLaoyu/blog/pull/58) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
+10. 🎉 Merged PR [#57](https://github.com/JakeLaoyu/blog/pull/57) in [JakeLaoyu/blog](https://github.com/JakeLaoyu/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
