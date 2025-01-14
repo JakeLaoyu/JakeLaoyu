@@ -9,7 +9,6 @@
 4. 💬 Commented on [#16008](https://github.com/raycast/extensions/issues/16008#issuecomment-2560113859) in [raycast/extensions](https://github.com/raycast/extensions)<br>
 5. ✔️ Closed issue [#31](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/31) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 6. 🎉 Merged PR [#33](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/33) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-7. 💪 Opened PR [#33](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/33) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
