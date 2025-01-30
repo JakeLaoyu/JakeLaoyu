@@ -6,9 +6,6 @@
 1. 💬 Commented on [#36](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/36#issuecomment-2608364978) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 2. ✔️ Closed issue [#36](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/36) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 3. 💪 Opened PR [#99](https://github.com/RSSNext/rsshub-docs/pull/99) in [RSSNext/rsshub-docs](https://github.com/RSSNext/rsshub-docs)<br>
-4. 💬 Commented on [#16008](https://github.com/raycast/extensions/issues/16008#issuecomment-2560459074) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-5. 💪 Opened PR [#16023](https://github.com/raycast/extensions/pull/16023) in [raycast/extensions](https://github.com/raycast/extensions)<br>
-6. 💬 Commented on [#16008](https://github.com/raycast/extensions/issues/16008#issuecomment-2560113859) in [raycast/extensions](https://github.com/raycast/extensions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
