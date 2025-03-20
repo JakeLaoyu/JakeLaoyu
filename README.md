@@ -3,9 +3,6 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#35](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/35) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-2. ✔️ Closed issue [#34](https://github.com/JakeLaoyu/memos-import-from-flomo/issues/34) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-3. 🎉 Merged PR [#37](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/37) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
