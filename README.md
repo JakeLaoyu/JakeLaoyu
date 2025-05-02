@@ -3,7 +3,6 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#18224](https://github.com/raycast/extensions/issues/18224#issuecomment-2773332931) in [raycast/extensions](https://github.com/raycast/extensions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
