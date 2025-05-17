@@ -3,6 +3,7 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ❗️ Opened issue [#87](https://github.com/allinssl/allinssl/issues/87) in [allinssl/allinssl](https://github.com/allinssl/allinssl)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
