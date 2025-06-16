@@ -5,7 +5,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#87](https://github.com/allinssl/allinssl/issues/87#issuecomment-2888835986) in [allinssl/allinssl](https://github.com/allinssl/allinssl)<br>
 2. ✔️ Closed issue [#87](https://github.com/allinssl/allinssl/issues/87) in [allinssl/allinssl](https://github.com/allinssl/allinssl)<br>
-3. ❗️ Opened issue [#87](https://github.com/allinssl/allinssl/issues/87) in [allinssl/allinssl](https://github.com/allinssl/allinssl)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
