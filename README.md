@@ -2,10 +2,10 @@
 
 ### 🚀 Featured Projects
 
-- **[Email Once](https://email-once.com/)** 📧 - Secure Email Solutions  
+- **<a href="https://email-once.com/" target="_blank">Email Once</a>** 📧 - Secure Email Solutions  
   Professional email service platform for modern communication
 
-- **[Share Once](http://share-once.com/)** 📂 - File Sharing Platform  
+- **<a href="http://share-once.com/" target="_blank">Share Once</a>** 📂 - File Sharing Platform  
   Simple and secure file sharing made easy
 
 ### 💻 Recent Activity
