@@ -2,30 +2,11 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://email-once.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_Email_Once-FF6B6B?style=for-the-badge&logoColor=white"/>
-        </a>
-        <br/>
-        <sub><b>Secure Email Solutions</b></sub>
-        <br/>
-        <sub>Professional email service platform</sub>
-      </td>
-      <td align="center" width="50%">
-        <a href="http://share-once.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_Share_Once-4ECDC4?style=for-the-badge&logoColor=white"/>
-        </a>
-        <br/>
-        <sub><b>File Sharing Platform</b></sub>
-        <br/>
-        <sub>Simple and secure file sharing</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+- **[Email Once](https://email-once.com/)** 📧 - Secure Email Solutions  
+  Professional email service platform for modern communication
+
+- **[Share Once](http://share-once.com/)** 📂 - File Sharing Platform  
+  Simple and secure file sharing made easy
 
 ### 💻 Recent Activity
 
