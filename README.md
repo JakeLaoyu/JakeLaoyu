@@ -1,12 +1,12 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jake</h2>
 
 ### 🚀 Featured Projects
-
 - **<a href="https://email-once.com/" target="_blank">Email Once</a>** 📧 - Secure Email Solutions  
-  Professional email service platform for modern communication
-
+ Professional email service platform for modern communication
 - **<a href="http://share-once.com/" target="_blank">Share Once</a>** 📂 - File Sharing Platform  
-  Simple and secure file sharing made easy
+ Simple and secure file sharing made easy
+- **<a href="https://p2pshare.com/" target="_blank">P2P Share</a>** 🔗 - Peer-to-Peer Sharing  
+ Direct file sharing between users without central servers
 
 ### 💻 Recent Activity
 
