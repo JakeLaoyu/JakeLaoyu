@@ -18,10 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 2 mins     █████████████████████▒░░░   84.91 %
-Markdown     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-Vue.js       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
