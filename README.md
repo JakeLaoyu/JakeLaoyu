@@ -12,11 +12,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ❌ Closed PR [#44](undefined) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-2. 💬 Commented on [#44](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/44#issuecomment-4393117542) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-3. ❌ Closed PR [#47](undefined) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-4. 💪 Opened PR [#47](undefined) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-5. 💬 Commented on [#44](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/44#issuecomment-4393071740) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-6. 💬 Commented on [#42](https://github.com/JakeLaoyu/memos-import-from-flomo/pull/42#issuecomment-4393067649) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+2. ❌ Closed PR [#47](undefined) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
+3. 💪 Opened PR [#47](undefined) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
