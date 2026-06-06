@@ -11,8 +11,6 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#44](undefined) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
-2. ❌ Closed PR [#47](undefined) in [JakeLaoyu/memos-import-from-flomo](https://github.com/JakeLaoyu/memos-import-from-flomo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
