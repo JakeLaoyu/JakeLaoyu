@@ -11,11 +11,6 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3](https://github.com/JakeLaoyu/open_baby_sara/pull/3#issuecomment-4994333029) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
-2. 💬 Commented on [#3](https://github.com/JakeLaoyu/open_baby_sara/pull/3#discussion_r3597273852) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
-3. 💬 Commented on [#3](https://github.com/JakeLaoyu/open_baby_sara/pull/3#issuecomment-4994148998) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
-4. 💬 Commented on [#3](https://github.com/JakeLaoyu/open_baby_sara/pull/3#discussion_r3597139205) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
-5. 💪 Opened PR [#3](undefined) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
