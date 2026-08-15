@@ -16,11 +16,6 @@
 3. 💬 Commented on [#3](https://github.com/JakeLaoyu/open_baby_sara/pull/3#issuecomment-4994148998) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
 4. 💬 Commented on [#3](https://github.com/JakeLaoyu/open_baby_sara/pull/3#discussion_r3597139205) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
 5. 💪 Opened PR [#3](undefined) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
-6. 💬 Commented on [#1](https://github.com/JakeLaoyu/open_baby_sara/pull/1#issuecomment-4989585496) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
-7. 💬 Commented on [#1](https://github.com/JakeLaoyu/open_baby_sara/pull/1#discussion_r3593658897) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
-8. 💬 Commented on [#2](https://github.com/JakeLaoyu/open_baby_sara/pull/2#issuecomment-4989536655) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
-9. 💬 Commented on [#2](https://github.com/JakeLaoyu/open_baby_sara/pull/2#discussion_r3593617164) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
-10. 💬 Commented on [#2](https://github.com/JakeLaoyu/open_baby_sara/pull/2#discussion_r3593617049) in [JakeLaoyu/open_baby_sara](https://github.com/JakeLaoyu/open_baby_sara)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
