@@ -11,6 +11,9 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ❌ Closed PR [#7041](undefined) in [QuantumNous/new-api](https://github.com/QuantumNous/new-api)<br>
+2. 💪 Opened PR [#7041](undefined) in [QuantumNous/new-api](https://github.com/QuantumNous/new-api)<br>
+3. 🤝 Became collaborator on [chunfeng789/new-api](https://github.com/chunfeng789/new-api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
