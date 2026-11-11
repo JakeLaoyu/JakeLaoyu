@@ -11,7 +11,6 @@
 ### 💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](undefined) in [JakeLaoyu/fear-greed-index](https://github.com/JakeLaoyu/fear-greed-index)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### Waka
